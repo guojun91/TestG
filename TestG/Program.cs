@@ -11,8 +11,8 @@ namespace TestG
         static void Main(string[] args)
         {
             Console.WriteLine("Test123");
-            Console.WriteLine("tom");
-            Console.WriteLine("jjqq");
+            Console.WriteLine("tom12");
+            Console.WriteLine("jj12");
         }
     }
 }
