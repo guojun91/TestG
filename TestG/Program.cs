@@ -13,6 +13,7 @@ namespace TestG
             Console.WriteLine("Test123");
             Console.WriteLine("tomdd");
             Console.WriteLine("jjdd");
+            Console.WriteLine("tomtomtom");
         }
     }
 }
