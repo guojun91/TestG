@@ -12,7 +12,7 @@ namespace TestG
         {
             Console.WriteLine("Test123");
             Console.WriteLine("tom12");
-            Console.WriteLine("jj12");
+            Console.WriteLine("jjqq");
         }
     }
 }
